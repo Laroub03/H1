@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\bin\Debug\net6.0\Bagedysten.exe
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\bin\Debug\net6.0\Bagedysten.deps.json
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\bin\Debug\net6.0\Bagedysten.runtimeconfig.json
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\bin\Debug\net6.0\Bagedysten.dll
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\bin\Debug\net6.0\Bagedysten.pdb
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\Bagedysten.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\Bagedysten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\Bagedysten.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\Bagedysten.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\Bagedysten.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\Bagedysten.dll
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\refint\Bagedysten.dll
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\Bagedysten.pdb
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\Bagedysten.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\Bagedysten\Bagedysten\obj\Debug\net6.0\ref\Bagedysten.dll
