@@ -36,10 +36,11 @@ namespace Exercise
                 else
                 {
                     Console.WriteLine("You failed the exam {0} was the right cake. Try Again!", selectedCake);
-                   
                 }
                 Console.WriteLine("");
-       }
+            }        
+
+
          }   
     }
 }
