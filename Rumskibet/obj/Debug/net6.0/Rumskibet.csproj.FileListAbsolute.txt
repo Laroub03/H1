@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\bin\Debug\net6.0\Rumskibet.exe
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\bin\Debug\net6.0\Rumskibet.deps.json
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\bin\Debug\net6.0\Rumskibet.runtimeconfig.json
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\bin\Debug\net6.0\Rumskibet.dll
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\bin\Debug\net6.0\Rumskibet.pdb
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\Rumskibet.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\Rumskibet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\Rumskibet.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\Rumskibet.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\Rumskibet.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\Rumskibet.dll
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\refint\Rumskibet.dll
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\Rumskibet.pdb
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\Rumskibet.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\Rumskibet\Rumskibet\obj\Debug\net6.0\ref\Rumskibet.dll
