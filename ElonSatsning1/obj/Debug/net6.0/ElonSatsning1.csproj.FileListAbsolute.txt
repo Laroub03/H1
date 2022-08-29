@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\bin\Debug\net6.0\ElonSatsning1.exe
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\bin\Debug\net6.0\ElonSatsning1.deps.json
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\bin\Debug\net6.0\ElonSatsning1.runtimeconfig.json
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\bin\Debug\net6.0\ElonSatsning1.dll
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\bin\Debug\net6.0\ElonSatsning1.pdb
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ElonSatsning1.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ElonSatsning1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ElonSatsning1.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ElonSatsning1.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ElonSatsning1.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ElonSatsning1.dll
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\refint\ElonSatsning1.dll
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ElonSatsning1.pdb
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ElonSatsning1.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\ElonSatsning1\ElonSatsning1\obj\Debug\net6.0\ref\ElonSatsning1.dll
