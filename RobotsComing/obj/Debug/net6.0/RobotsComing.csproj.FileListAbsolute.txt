@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\RobotsComing.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\RobotsComing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\RobotsComing.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\RobotsComing.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\RobotsComing.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\bin\Debug\net6.0\RobotsComing.exe
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\bin\Debug\net6.0\RobotsComing.deps.json
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\bin\Debug\net6.0\RobotsComing.runtimeconfig.json
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\bin\Debug\net6.0\RobotsComing.dll
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\bin\Debug\net6.0\RobotsComing.pdb
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\RobotsComing.dll
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\refint\RobotsComing.dll
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\RobotsComing.pdb
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\RobotsComing.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\RobotsComing\RobotsComing\obj\Debug\net6.0\ref\RobotsComing.dll
