@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\Planets.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\Planets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\Planets.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\Planets.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\Planets.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\Planets\Planets\bin\Debug\net6.0\Planets.exe
+C:\Users\Ayoub\source\repos\Planets\Planets\bin\Debug\net6.0\Planets.deps.json
+C:\Users\Ayoub\source\repos\Planets\Planets\bin\Debug\net6.0\Planets.runtimeconfig.json
+C:\Users\Ayoub\source\repos\Planets\Planets\bin\Debug\net6.0\Planets.dll
+C:\Users\Ayoub\source\repos\Planets\Planets\bin\Debug\net6.0\Planets.pdb
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\Planets.dll
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\refint\Planets.dll
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\Planets.pdb
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\Planets.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\Planets\Planets\obj\Debug\net6.0\ref\Planets.dll
