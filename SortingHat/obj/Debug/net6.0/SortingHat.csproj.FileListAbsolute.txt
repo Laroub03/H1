@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\bin\Debug\net6.0\SortingHat.exe
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\bin\Debug\net6.0\SortingHat.deps.json
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\bin\Debug\net6.0\SortingHat.runtimeconfig.json
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\bin\Debug\net6.0\SortingHat.dll
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\bin\Debug\net6.0\SortingHat.pdb
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\SortingHat.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\SortingHat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\SortingHat.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\SortingHat.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\SortingHat.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\SortingHat.dll
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\refint\SortingHat.dll
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\SortingHat.pdb
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\SortingHat.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\SortingHat\SortingHat\obj\Debug\net6.0\ref\SortingHat.dll
