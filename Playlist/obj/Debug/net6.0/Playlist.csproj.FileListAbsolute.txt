@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\Playlist\Playlist\bin\Debug\net6.0\Playlist.exe
+C:\Users\Ayoub\source\repos\Playlist\Playlist\bin\Debug\net6.0\Playlist.deps.json
+C:\Users\Ayoub\source\repos\Playlist\Playlist\bin\Debug\net6.0\Playlist.runtimeconfig.json
+C:\Users\Ayoub\source\repos\Playlist\Playlist\bin\Debug\net6.0\Playlist.dll
+C:\Users\Ayoub\source\repos\Playlist\Playlist\bin\Debug\net6.0\Playlist.pdb
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\Playlist.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\Playlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\Playlist.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\Playlist.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\Playlist.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\Playlist.dll
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\refint\Playlist.dll
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\Playlist.pdb
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\Playlist.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\Playlist\Playlist\obj\Debug\net6.0\ref\Playlist.dll
