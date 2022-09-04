@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\bin\Debug\net6.0\JediMindTricks.exe
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\bin\Debug\net6.0\JediMindTricks.deps.json
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\bin\Debug\net6.0\JediMindTricks.runtimeconfig.json
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\bin\Debug\net6.0\JediMindTricks.dll
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\bin\Debug\net6.0\JediMindTricks.pdb
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\JediMindTricks.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\JediMindTricks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\JediMindTricks.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\JediMindTricks.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\JediMindTricks.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\JediMindTricks.dll
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\refint\JediMindTricks.dll
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\JediMindTricks.pdb
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\JediMindTricks.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\JediMindTricks\JediMindTricks\obj\Debug\net6.0\ref\JediMindTricks.dll
