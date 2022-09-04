@@ -7,43 +7,15 @@ using System.Threading.Tasks;
 
 namespace Blackjack
 {
-    internal struct Game
+    internal class Game
     {
-        public Game()
-        {
-            _hand = new Value[5];
-            _pickedCard = 0;
-            _points = 0;
-            _userPoints = 0;
-            _computerPoints = 0;
-            //_points += _computerPoints;
-            //_points += _userPoints;
 
-        }
 
         Player[] players = new Player[5];
         private Value[] _deck;
         private Value _card;
         private int _pointer;
         
-        private Value[] _hand;
-        private int _pickedCard;
-        private int _points;
-        private int _userPoints;
-        private int _computerPoints;
-
-        public Value[] _Hand
-        { get => _hand; }
-        public int _PickedCard
-        {
-            get { return _pickedCard; }
-            set { _pickedCard = value; }
-        }
-        public int _Points
-        {
-            get { return _points; }
-            set { _points = value; }
-        }
         public int _Pointer
         { get => _pointer; }
         public Value[] _Deck
@@ -51,18 +23,8 @@ namespace Blackjack
         public Value _Card
             { get => _card; }
 
-        public int _UserPoints
-        {
-            get { return _userPoints; }
-            set { _userPoints = value; }
-        }
-        public int _ComputerPoint
-        {
-            get { return _computerPoints; }
-            set { _computerPoints = value; }
-        }
 
-                public Value[] CreateDeck()
+        public Value[] CreateDeck()
         {
             Value[] _deck = new Value[52];
             int counter = 0;
@@ -119,173 +81,83 @@ namespace Blackjack
             }
         }
 
-        public void Hand()
+        public void Hand(Player player)
         {
 
             Console.Write("Current Hand: ");
 
-            for (int i = 0; i < _pickedCard; i++)
+            for (int i = 0; i < player._PickedCards; i++)
             {
-                Symbol(_Hand[i]);
+                Symbol(player._Hand[i]);
             }
-            Console.WriteLine("Current points: {0}.", _points);
+            Console.WriteLine("Current points: {0}.", player._Points);
         }
 
-        public void Draw(Value[] _deck)
+        public void Draw(Value[] _deck, Player player)
         {
             Value nextCard = _deck[_pointer];
 
-            if (_pickedCard < 5)
+            if (player._PickedCards < 5)
             {
-                _hand[_pickedCard] = nextCard;
+                player._Hand[player._PickedCards] = nextCard;
 
-                _pickedCard++;
-                _points += nextCard._Points;
+                player._PickedCards++;
+                player._Points += nextCard._Points;
 
                 _pointer++;
             }
         }
 
-        public bool PointChecker()
+        public bool PointChecker(Player player)
         {
             
-            //_userPoints
-            if (_points > 21)
+            if (player._Points > 21)
             {
                 Console.WriteLine("Bust!");
                 return false;
             }
 
+
             return true;
         }
-        public void AceChecker()
+        public void AceChecker( Player player)
         {
             bool changed = false;
             
-            if (_points > 21)
+            if (player._Points > 21)
             {
-                for (int i = 0; i < _pickedCard; i++)
+                for (int i = 0; i < player._PickedCards; i++)
                 {
-                    if (_hand[i]._Points == 11 && changed == false)
+                    if (player._Hand[i]._Points == 11 && changed == false)
                     {
-                        _hand[i]._Points = 1;
-                        _points -= 10;
+                        player._Hand[i]._Points = 1;
+                        player._Points -= 10;
                         changed = true;
-                    }
-                }
-            }
-
-        }
-
-        public void User()
-        {
-            Value[] _deck = CreateDeck();
-            DeckShuffler(_deck);
-            _points = 0;
-            _pickedCard = 0;
-            _points += _userPoints;
-
-            Draw(_deck);
-            Draw(_deck);
-
-
-            AceChecker();
-            Hand();
-            PointChecker();
-            bool alive = true;
-
-            string choice = "";
-
-            while (alive == true && choice != "STICK")
-            {
-                Console.Write("Hit or Stick? ");
-                choice = Console.ReadLine().ToUpper();
-                if (choice == "HIT")
-                {
-                    Draw(_deck);
-
-
-                    AceChecker();
-                    Hand();
-                    alive = PointChecker();
-                }
-            }
-        }
-
-        public void Computer()
-        {
-            Value[] _deck = CreateDeck();
-            DeckShuffler(_deck);
-            
-            _points = 0;
-            _pickedCard = 0;
-            _points += _computerPoints;
-
-            bool alive = true;
-            if (alive == true)
-            {
-                bool computerAlive = true;
-
-                Console.WriteLine();
-                Console.WriteLine("--- Computer's Turn ---");
-
-                Draw(_deck);
-                Draw(_deck);
-
-                AceChecker();
-                Hand();
-                PointChecker();
-
-                    if(_computerPoints > _userPoints)
-                    {
-                        Console.WriteLine("Computer Won!");
-                        computerAlive = false;
-                    }
-                    else if(_userPoints > _computerPoints)
-                    {
-                        Console.WriteLine("You Won!");
-                            computerAlive=false;
-                    }
-                while (computerAlive)
-                {
-
-                    Console.WriteLine("Press Enter to Continue");
-                    Console.ReadLine();
-
-                    Draw(_deck);
-
-                    AceChecker();
-                    Hand();
-                    computerAlive = PointChecker();
-
-                //else
-                //{
-                //    Console.WriteLine("You Won!");
                         
-                //}
+                    }
                 }
+                
             }
+            
+
         }
 
-
-
-
-        public void Start()
-        {
-
-            string playAgain = "";
-            do
+        public void calculateWinner(Player player, Player dealer)
+        { 
+            if (dealer._Points > 21)
             {
+                Console.WriteLine("You Won!");
+            }
 
-                User();
+            else if (dealer._Points == player._Points)
+            {
+                Console.WriteLine("Draw!");
+            }
 
-                Computer();
-                
-
-                Console.Write("Do you want to play again? Y/N ");
-                playAgain = Console.ReadLine().ToUpper();
-
-            } while (playAgain == "Y");
+            else if (dealer._Points < 21 && dealer._Points > player._Points  )
+            {
+                Console.WriteLine("Computer Won!");
+            }
 
         }
     }
