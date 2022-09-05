@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\bin\Debug\net6.0\CopenhagenZoo.exe
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\bin\Debug\net6.0\CopenhagenZoo.deps.json
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\bin\Debug\net6.0\CopenhagenZoo.runtimeconfig.json
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\bin\Debug\net6.0\CopenhagenZoo.dll
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\bin\Debug\net6.0\CopenhagenZoo.pdb
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\CopenhagenZoo.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\CopenhagenZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\CopenhagenZoo.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\CopenhagenZoo.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\CopenhagenZoo.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\CopenhagenZoo.dll
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\refint\CopenhagenZoo.dll
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\CopenhagenZoo.pdb
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\CopenhagenZoo.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\CopenhagenZoo\CopenhagenZoo\obj\Debug\net6.0\ref\CopenhagenZoo.dll
