@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\bin\Debug\net6.0\TheFirm.exe
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\bin\Debug\net6.0\TheFirm.deps.json
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\bin\Debug\net6.0\TheFirm.runtimeconfig.json
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\bin\Debug\net6.0\TheFirm.dll
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\bin\Debug\net6.0\TheFirm.pdb
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\TheFirm.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\TheFirm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\TheFirm.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\TheFirm.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\TheFirm.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\TheFirm.dll
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\refint\TheFirm.dll
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\TheFirm.pdb
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\TheFirm.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\TheFirm\TheFirm\obj\Debug\net6.0\ref\TheFirm.dll
