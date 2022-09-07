@@ -3,26 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Food;
+using Keeper;
 
-namespace Keeper
+namespace HRDepartment
 {
-    
-    internal class Employee
+    internal class HR
     {
 
         private string _name;
+        private Random rnd = new Random();
 
-        Random rnd = new Random();
-        protected internal string Name { get { return _name; } set { _name = value; } }
 
-        protected internal void EmployeeID()
+        protected internal string Name
+        {
+            get { return _name; }
+            set { _name = value; }
+        }
+
+        protected internal void AddHRID()
         {
             for (int j = 0; j < 5; j++)
             {
                 Console.Write(rnd.Next(5));
             }
         }
-
     }
 }
