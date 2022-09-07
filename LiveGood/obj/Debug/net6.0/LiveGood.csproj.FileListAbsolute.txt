@@ -1,0 +1,15 @@
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\LiveGood.csproj.AssemblyReference.cache
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\LiveGood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\LiveGood.AssemblyInfoInputs.cache
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\LiveGood.AssemblyInfo.cs
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\LiveGood.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\bin\Debug\net6.0\LiveGood.exe
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\bin\Debug\net6.0\LiveGood.deps.json
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\bin\Debug\net6.0\LiveGood.runtimeconfig.json
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\bin\Debug\net6.0\LiveGood.dll
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\bin\Debug\net6.0\LiveGood.pdb
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\LiveGood.dll
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\refint\LiveGood.dll
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\LiveGood.pdb
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\LiveGood.genruntimeconfig.cache
+C:\Users\Ayoub\source\repos\LiveGood\LiveGood\obj\Debug\net6.0\ref\LiveGood.dll
