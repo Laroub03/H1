@@ -94,8 +94,8 @@ namespace Automaten.Model
 
                                     Console.Clear();
                                     Console.WriteLine("Thank you for your purchase");
-                                    Console.WriteLine("Your change: " + vm.GiveChange(money) + "DKK");
-                                    customer.cash = customer.cash + vm.GiveChange(money);
+                                    Console.WriteLine("Your change: " + customer.GiveChange(money) + "DKK");
+                                    customer.cash = customer.cash + customer.GiveChange(money);
                                     // vm uses an method to give any change
 
                                     Console.WriteLine("\nPress enter to continue");

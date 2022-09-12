@@ -9,10 +9,15 @@ namespace Automaten.Logic
     internal class Customer
     {
 
-        private int _cash = 1000;
+        protected internal int cash = 1000;
 
-            protected internal int cash
-            { get { return _cash; } set { _cash = value; } }
+
+        protected internal int GiveChange(int money)
+        {
+            int change = money - 20;
+
+            return change;
+        }
 
     }
 }

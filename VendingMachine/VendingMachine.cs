@@ -48,12 +48,7 @@ namespace Automaten.Logic
                 return str;
             }
             // Returns change if inputtet money was over the product price
-            protected internal int GiveChange(int money)
-            {
-               int change = money - 20;
 
-                return change;
-            }
             // All 3 get methods gives you your picked snack as long as there is more than 0 in the vm
             protected internal void GetSlot1()
             {
